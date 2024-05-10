@@ -1,0 +1,15 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.row{
+    display:flex;
+}
+.grid{
+    width: 35px;
+    height: 35px;
+    background-color: black;
+    border: 1px solid blue ;
+    margin: 1px;
+}
