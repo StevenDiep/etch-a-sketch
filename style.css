@@ -9,7 +9,7 @@ body{
 .grid{
     width: 35px;
     height: 35px;
-    background-color: black;
+
     border: 1px solid blue ;
     margin: 1px;
 }
