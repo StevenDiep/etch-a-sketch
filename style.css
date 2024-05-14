@@ -1,15 +1,14 @@
 body{
     display:flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 .row{
     display:flex;
 }
-.grid{
-    width: 35px;
-    height: 35px;
 
-    border: 1px solid blue ;
-    margin: 1px;
+.grid{
+    box-sizing: border-box;
+    border: .25px solid blue ;
 }
